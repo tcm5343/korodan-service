@@ -1,0 +1,7 @@
+services:
+  infra:
+    build: 
+      context: . 
+      dockerfile: ./infra/Dockerfile
+    volumes:
+      - .:/work
