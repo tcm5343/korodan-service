@@ -1,9 +1,9 @@
 # korodan-service
-Service for korodan
 
-# Getting Started
-[npm](https://docs.npmjs.com/cli/v10/configuring-npm/install)
-[Docker](https://docs.docker.com/engine/install/)
-[LocalStack](https://docs.localstack.cloud/getting-started/installation/)
+Backend infrastructure and service for Korodan, a family directory system.
 
-All development should be done inside of a container. 
+## Getting Started
+
+This project only requires that an Open Container Initiative (OCI) compliant container engine, like Docker or podman, is installed. Development shall be done inside the container. A [development container](https://containers.dev/) is configured for [VSCode](https://code.visualstudio.com/) but is not required.
+
+All development should be done inside of a container.
