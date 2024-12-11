@@ -1,0 +1,24 @@
+{
+    "name": "infra",
+    "dockerComposeFile": "../../docker-compose.yml",
+    "service": "infra",
+    "runServices": ["infra"],
+    "workspaceFolder": "/work",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": [
+            "davidanson.vscode-markdownlint",
+            "gruntfuggly.todo-tree",
+            "mikoz.black-py",
+            "ms-azuretools.vscode-docker",
+            "ms-python.debugpy",
+            "ms-python.python",
+            "ms-python.vscode-pylance",
+            "ms-toolsai.jupyter",
+            "shardulm94.trailing-spaces",
+            "streetsidesoftware.code-spell-checker"
+        ]
+      }
+    }
+  }
