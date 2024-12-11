@@ -1,0 +1,10 @@
+{
+    "name": "korodan-service",
+    "version": "0.0.1",
+    "dependencies": {
+      "aws-cdk": "^2.0.0"
+    },
+    "devDependencies": {
+      "aws-cdk-local": "^2.0.0"
+    }
+  }
