@@ -10,3 +10,7 @@ cdk.out/
 
 # node
 node_modules/
+
+# pytest
+__pycache__
+.pytest_cache
